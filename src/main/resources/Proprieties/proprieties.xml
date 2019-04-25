@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Commentaire ici, ou pas</comment>
+	<!-- controleur.ControleurPrincipal -->
+	<entry key="Titre-Application">TP - 1</entry>
+	<!-- controleur.VuePrincipal -->
+	<entry key="Button-Analyser">Analyser</entry>
+	<entry key="Button-Rechercher">Rechercher</entry>
+	<entry key="TextField-Mot-Rechercher">Mot Rechercher</entry>
+	<entry key="ComboBox-Vue-Principal">Choisir un livre</entry>
+	<entry key="Label-NombreDeMot-Vue-Principal">Nombre de mot :</entry>
+	<entry key="TextField-NombreDeMot-Vue-Principal">0</entry>
+	<!-- controleur.FragmentLivre -->
+	<entry key="Fragment-1">Nombre de mot :</entry>
+	<entry key="Fragment-2">Nombre de mot disctinct :</entry>
+	<entry key="Fragment-3">Moyenne d'occurence par mot :</entry>
+	<entry key="Fragment-4">Mot le plus nombreux :</entry>
+	<entry key="Fragment-5">Mot le plus rare :</entry>
+	<entry key="Fragment-6">Mot le plus long :</entry>
+	<entry key="Fragment-7">Mot le plus court :</entry>
+	<!-- utilitaire.GestionFichier -->
+	<entry key="spliter">[-+.^:,/\"_!?;()« »\\]\\[\\*\n\t]</entry>
+</properties>
